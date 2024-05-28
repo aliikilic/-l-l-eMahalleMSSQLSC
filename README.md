@@ -1,4 +1,7 @@
 Türkiyede ki İl, İlçe, Mahalle bilgilerini içeren MSSQL scriptidir.
+
+
+
 Districts tablosu Cities tablosu ile,
 Neighborhoods tablosu Districts ve Cities tablosu ile ilişkili haldedir.
 
